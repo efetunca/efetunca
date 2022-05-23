@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Tunca</h1>
-<h3 align="center">An electrical and electronics engineer from Turkey</h3>
+<h3 align="center">An electrical and electronics engineering student from Turkey</h3>
 
 - 📫 You can reach me at **efetunca@hotmail.com or efe@efetunca.com**
 
